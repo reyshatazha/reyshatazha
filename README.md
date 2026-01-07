@@ -1,6 +1,6 @@
 # Hi 👋, I'm Reysha Tazha
 
-### A Major
+### A Major Software Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyshatazha&label=Profile views&color=0e75b6&style=flat" alt="reyshatazha" /> </p>
 
